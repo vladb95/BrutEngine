@@ -1,0 +1,23 @@
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\bin\Debug\mainApplicationPattern.exe.config
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\bin\Debug\mainApplicationPattern.exe
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\bin\Debug\mainApplicationPattern.pdb
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\bin\Debug\xNet.dll
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\obj\Debug\mainApplicationPattern.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\obj\Debug\mainApplicationPattern.exe
+C:\Users\Vlad\Desktop\Some projects\mainApplicationPattern\mainApplicationPattern\obj\Debug\mainApplicationPattern.pdb
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\Brute Engine by vladb9582.exe.config
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\Brute Engine by vladb9582.exe
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\Brute Engine by vladb9582.pdb
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\mainApplicationPattern.csprojResolveAssemblyReference.cache
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\mainApplicationPattern.UI.Forms.MainForm.resources
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\mainApplicationPattern.csproj.GenerateResource.Cache
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\Brute Engine by vladb9582.exe
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\Brute Engine by vladb9582.pdb
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\MySql.Data.dll
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\obj\Debug\mainApplicationPattern.Properties.Resources.resources
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\FluentNHibernate.dll
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\Iesi.Collections.dll
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\NHibernate.dll
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\FluentNHibernate.xml
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\Iesi.Collections.xml
+C:\Users\Vladb9582\Desktop\Visual Studio new projects\Bruts\BrutEngine\mainApplicationPattern\bin\Debug\NHibernate.xml
